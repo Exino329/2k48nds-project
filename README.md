@@ -2,6 +2,11 @@
 
 by Boucheny Rayan (327575) and Lieberherr Lorin (326858).
 
+<p>
+  <img src="Image2.jpg" alt="Image 1" style="margin-right: 50px; display: inline-block;">
+  <img src="Image3.jpg" alt="Image 3" style="display: inline-block;">
+</p>
+
 ## Getting started
 
 This readme is done to explain the 2048 rules and how to play the game on the NDS.
