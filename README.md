@@ -1,6 +1,6 @@
 # 2048 NDS Project 
 
-by Boucheny Rayan (327575) and Lieberherr Lorin (326858).
+by Boucheny Rayan and Lieberherr Lorin.
 
 <p>
   <img src="Image2.jpg" alt="Image 1" style="margin-right: 100px; display: inline-block;">
